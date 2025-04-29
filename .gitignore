@@ -1,0 +1,18 @@
+# Ignorar tu entorno virtual llamado "actividad"
+actividad/
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones de VSCode o editores (opcional)
+.vscode/
+.idea/
